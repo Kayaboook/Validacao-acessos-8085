@@ -100,6 +100,9 @@ validacao-acessos-8085/
 ## Autor
 
 Projeto académico — Sistemas com Microprocessadores, EST/IPCB.
+Echarme Kaya · 
+Paulo Kiesse Victor ·  
+Patrício Leonardo Samuel · 
 
 ## Licença
 
