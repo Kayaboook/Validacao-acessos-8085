@@ -1,0 +1,17 @@
+# Ficheiros de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ficheiros temporários de editores
+*~
+*.swp
+*.bak
+.vscode/
+.idea/
+
+# Saídas/montagem de simuladores 8085
+*.hex
+*.lst
+*.obj
+*.bin
